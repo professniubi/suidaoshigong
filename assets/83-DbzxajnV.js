@@ -1,0 +1,1 @@
+var e=``+new URL(`83-izcKkTNS.png`,import.meta.url).href;export{e as default};

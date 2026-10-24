@@ -1,0 +1,1 @@
+var e=``+new URL(`18-DLSI14nd.png`,import.meta.url).href;export{e as default};

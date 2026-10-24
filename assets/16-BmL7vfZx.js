@@ -1,0 +1,1 @@
+var e=``+new URL(`16-DySeg_QJ.png`,import.meta.url).href;export{e as default};

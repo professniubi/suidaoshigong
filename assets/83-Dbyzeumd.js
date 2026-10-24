@@ -1,0 +1,1 @@
+var e=``+new URL(`83-CPCOzma4.png`,import.meta.url).href;export{e as default};

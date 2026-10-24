@@ -1,0 +1,1 @@
+var e=``+new URL(`117-ozilVowe.png`,import.meta.url).href;export{e as default};

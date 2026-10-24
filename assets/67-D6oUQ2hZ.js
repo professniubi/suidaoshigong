@@ -1,0 +1,1 @@
+var e=``+new URL(`67-DWDRisGi.png`,import.meta.url).href;export{e as default};
